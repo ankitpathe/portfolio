@@ -1,0 +1,2660 @@
+Uri: https://azim.hostlin.com/Potu/about-2.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\about-2.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/about-3.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\about-3.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/about-4.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\about-4.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/about-5.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\about-5.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/about-6.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\about-6.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/about-7.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\about-7.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/about-8.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\about-8.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/about.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\about.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/assets/css/animate.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/aos.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\aos.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/bootstrap.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/color-2.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\color-2.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/color.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\color.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/darkmode.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\darkmode.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/elpath.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\elpath.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/flaticon.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\flaticon.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/font-awesome-all.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\font-awesome-all.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/jquery.fancybox.min.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/module-css/about.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\module-css\about.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/module-css/banner.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\module-css\banner.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/module-css/blog-details.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\module-css\blog-details.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/module-css/books.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\module-css\books.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/module-css/case.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\module-css\case.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/module-css/chooseus.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\module-css\chooseus.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/module-css/clients.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\module-css\clients.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/module-css/contact.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\module-css\contact.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/module-css/covering-area.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\module-css\covering-area.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/module-css/cta.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\module-css\cta.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/module-css/discuss.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\module-css\discuss.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/module-css/events.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\module-css\events.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/module-css/faq.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\module-css\faq.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/module-css/feature.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\module-css\feature.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/module-css/footer.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\module-css\footer.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/module-css/funfact.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\module-css\funfact.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/module-css/header.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\module-css\header.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/module-css/instagram.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\module-css\instagram.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/module-css/news.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\module-css\news.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/module-css/portfolio.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\module-css\portfolio.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/module-css/pricing.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\module-css\pricing.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/module-css/process.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\module-css\process.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/module-css/service-details.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\module-css\service-details.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/module-css/service.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\module-css\service.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/module-css/sidebar.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\module-css\sidebar.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/module-css/skills.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\module-css\skills.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/module-css/testimonial.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\module-css\testimonial.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/module-css/video.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\module-css\video.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/nice-select.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\nice-select.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/odometer.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\odometer.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/owl.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\owl.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/responsive.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/satoshi-font.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\satoshi-font.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/css/style.css
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\css\style.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/fa-brands-400.woff2
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/fa-regular-400.woff2
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/fa-solid-900.woff2
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/fa-v4compatibility.woff2
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/icomoon.eot?tin97q
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/icomoon.svg?tin97q
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/icomoon.ttf?tin97q
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\icomoon.ttf
+Content Type: font/ttf
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/icomoon.woff?tin97q
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\icomoon.woff
+Content Type: font/woff
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-Black.eot
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-Black.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-Black.eot?
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-Black-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-Black.ttf
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-Black.ttf
+Content Type: font/ttf
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-Black.woff
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-Black.woff
+Content Type: font/woff
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-Black.woff2
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-Black.woff2
+Content Type: font/woff2
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-BlackItalic.eot
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-BlackItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-BlackItalic.eot?
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-BlackItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-BlackItalic.ttf
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-BlackItalic.ttf
+Content Type: font/ttf
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-BlackItalic.woff
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-BlackItalic.woff
+Content Type: font/woff
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-BlackItalic.woff2
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-BlackItalic.woff2
+Content Type: font/woff2
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-Bold.eot
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-Bold.eot?
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-Bold.ttf
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-Bold.woff
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-Bold.woff
+Content Type: font/woff
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-Bold.woff2
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-BoldItalic.eot
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-BoldItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-BoldItalic.eot?
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-BoldItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-BoldItalic.ttf
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-BoldItalic.ttf
+Content Type: font/ttf
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-BoldItalic.woff
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-BoldItalic.woff
+Content Type: font/woff
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-BoldItalic.woff2
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-BoldItalic.woff2
+Content Type: font/woff2
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-Italic.eot
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-Italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-Italic.eot?
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-Italic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-Italic.ttf
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-Italic.ttf
+Content Type: font/ttf
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-Italic.woff
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-Italic.woff
+Content Type: font/woff
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-Italic.woff2
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-Italic.woff2
+Content Type: font/woff2
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-Light.eot
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-Light.eot?
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-Light-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-Light.ttf
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-Light.ttf
+Content Type: font/ttf
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-Light.woff
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-Light.woff
+Content Type: font/woff
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-Light.woff2
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-Light.woff2
+Content Type: font/woff2
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-LightItalic.eot
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-LightItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-LightItalic.eot?
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-LightItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-LightItalic.ttf
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-LightItalic.ttf
+Content Type: font/ttf
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-LightItalic.woff
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-LightItalic.woff
+Content Type: font/woff
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-LightItalic.woff2
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-LightItalic.woff2
+Content Type: font/woff2
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-Medium.eot
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-Medium.eot?
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-Medium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-Medium.ttf
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-Medium.ttf
+Content Type: font/ttf
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-Medium.woff
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-Medium.woff
+Content Type: font/woff
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-Medium.woff2
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-MediumItalic.eot
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-MediumItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-MediumItalic.eot?
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-MediumItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-MediumItalic.ttf
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-MediumItalic.ttf
+Content Type: font/ttf
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-MediumItalic.woff
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-MediumItalic.woff
+Content Type: font/woff
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-MediumItalic.woff2
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-MediumItalic.woff2
+Content Type: font/woff2
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-Regular.eot
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-Regular.eot?
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-Regular.ttf
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-Regular.woff
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-Regular.woff
+Content Type: font/woff
+
+Uri: https://azim.hostlin.com/Potu/assets/fonts/Satoshi-Regular.woff2
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\fonts\Satoshi-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://azim.hostlin.com/Potu/assets/images/background/feature-bg.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\background\feature-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/background/footer-bg-2.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\background\footer-bg-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/background/footer-bg.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\background\footer-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/background/testimonial-bg.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\background\testimonial-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/background/video-bg.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\background\video-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/banner/banner-1.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\banner\banner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/banner/banner-2.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\banner\banner-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/banner/banner-img-1.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\banner\banner-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/banner/banner-img-1.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\banner\banner-img-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/banner/banner-img-2.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\banner\banner-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/banner/banner-img-2.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\banner\banner-img-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/banner/banner-img-3.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\banner\banner-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/banner/banner-img-3.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\banner\banner-img-3.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/banner/banner-img-4.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\banner\banner-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/banner/banner-img-5.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\banner\banner-img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/banner/banner-img-6.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\banner\banner-img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/banner/banner-img-7.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\banner\banner-img-7.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-1.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-10.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-10.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-11.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-11.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-12.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-12.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-13.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-13.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-14.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-14.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-15.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-15.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-16.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-16.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-17.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-17.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-18.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-18.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-19.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-19.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-2.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-20.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-20.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-21.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-21.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-22.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-22.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-23.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-23.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-24.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-24.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-25.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-25.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-26.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-26.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-27.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-27.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-28.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-28.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-29.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-29.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-3.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-3.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-30.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-30.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-31.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-31.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-32.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-32.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-33.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-33.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-34.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-34.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-35.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-35.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-36.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-36.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-37.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-37.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-38.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-38.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-39.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-39.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-4.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-4.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-40.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-40.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-41.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-41.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-42.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-42.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-43.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-43.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-44.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-44.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-45.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-45.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-46.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-46.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-47.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-47.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-48.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-48.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-49.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-49.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-5.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-5.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-50.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-50.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-51.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-51.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-52.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-52.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-53.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-53.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-54.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-54.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-55.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-55.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-56.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-56.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-57.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-57.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-58.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-58.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-6.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-6.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-7.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-7.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-8.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-8.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-9.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-9.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/favicon.ico
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-1.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-10.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-10.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-11.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-11.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-12.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-12.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-13.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-13.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-14.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-14.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-15.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-15.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-16.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-16.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-17.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-17.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-18.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-18.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-19.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-19.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-2.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-20.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-20.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-21.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-21.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-22.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-22.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-23.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-23.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-24.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-24.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-25.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-25.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-26.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-26.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-27.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-27.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-28.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-28.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-29.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-29.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-3.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-3.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-30.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-30.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-31.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-31.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-32.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-32.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-33.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-33.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-34.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-34.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-35.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-35.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-36.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-36.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-37.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-37.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-39.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-39.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-4.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-4.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-40.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-40.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-41.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-41.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-42.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-42.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-43.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-43.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-44.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-44.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-5.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-5.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-6.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-6.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-7.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-7.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-8.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-8.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/icon-9.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\icon-9.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/signature-1.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\signature-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/signature-2.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\signature-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/signature-3.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\signature-3.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/icons/signature-4.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\icons\signature-4.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/logo-10.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\logo-10.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/logo-11.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\logo-11.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/logo-12.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\logo-12.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/logo-13.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\logo-13.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/logo-14.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\logo-14.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/logo-15.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\logo-15.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/logo-16.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\logo-16.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/logo-17.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\logo-17.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/logo-2.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\logo-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/logo-3.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\logo-3.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/logo-4.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\logo-4.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/logo-5.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\logo-5.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/logo-6.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\logo-6.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/logo-7.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\logo-7.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/logo-8.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\logo-8.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/logo-9.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\logo-9.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/logo.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/news/comment-1.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\news\comment-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/news/comment-2.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\news\comment-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/news/news-1.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\news\news-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/news/news-10.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\news\news-10.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/news/news-11.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\news\news-11.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/news/news-12.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\news\news-12.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/news/news-13.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\news\news-13.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/news/news-14.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\news\news-14.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/news/news-15.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\news\news-15.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/news/news-16.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\news\news-16.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/news/news-17.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\news\news-17.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/news/news-18.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\news\news-18.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/news/news-19.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\news\news-19.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/news/news-2.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\news\news-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/news/news-20.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\news\news-20.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/news/news-21.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\news\news-21.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/news/news-22.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\news\news-22.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/news/news-23.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\news\news-23.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/news/news-24.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\news\news-24.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/news/news-25.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\news\news-25.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/news/news-26.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\news\news-26.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/news/news-27.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\news\news-27.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/news/news-28.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\news\news-28.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/news/news-3.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\news\news-3.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/news/news-4.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\news\news-4.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/news/news-5.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\news\news-5.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/news/news-6.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\news\news-6.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/news/news-7.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\news\news-7.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/news/news-8.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\news\news-8.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/news/news-9.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\news\news-9.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-1.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-1.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-10.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-10.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-10.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-10.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-11.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-11.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-11.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-11.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-12.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-12.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-12.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-12.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-13.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-13.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-13.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-13.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-14.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-14.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-14.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-14.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-15.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-15.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-16.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-16.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-17.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-17.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-18.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-18.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-19.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-19.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-2.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-2.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-20.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-20.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-21.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-21.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-22.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-22.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-23.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-23.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-24.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-24.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-25.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-25.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-26.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-26.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-27.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-27.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-28.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-28.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-29.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-29.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-3.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-3.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-3.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-3.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-30.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-30.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-31.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-31.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-32.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-32.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-33.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-33.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-34.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-34.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-35.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-35.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-36.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-36.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-37.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-37.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-38.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-38.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-39.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-39.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-4.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-4.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-4.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-4.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-40.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-40.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-41.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-41.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-42.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-42.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-5.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-5.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-5.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-5.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-6.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-6.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-6.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-6.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-7.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-7.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-7.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-7.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-8.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-8.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-8.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-8.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-9.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-9.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/portfolio/portfolio-9.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\portfolio\portfolio-9.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/about-1.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\about-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/about-1.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\about-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/about-10.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\about-10.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/about-11.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\about-11.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/about-12.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\about-12.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/about-13.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\about-13.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/about-14.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\about-14.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/about-15.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\about-15.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/about-16.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\about-16.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/about-2.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\about-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/about-2.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\about-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/about-3.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\about-3.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/about-4.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\about-4.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/about-5.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\about-5.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/about-6.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\about-6.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/about-7.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\about-7.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/about-8.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\about-8.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/about-9.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\about-9.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/area-1.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\area-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/area-2.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\area-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/area-3.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\area-3.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/big-image-1.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\big-image-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/big-image-2.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\big-image-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/books-1.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\books-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/books-1.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\books-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/books-10.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\books-10.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/books-11.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\books-11.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/books-12.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\books-12.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/books-2.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\books-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/books-3.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\books-3.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/books-4.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\books-4.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/books-5.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\books-5.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/books-6.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\books-6.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/books-7.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\books-7.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/books-8.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\books-8.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/books-9.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\books-9.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/case-1.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\case-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/case-2.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\case-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/case-3.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\case-3.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/clients-1.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\clients-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/clients-10.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\clients-10.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/clients-2.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\clients-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/clients-3.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\clients-3.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/clients-4.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\clients-4.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/clients-5.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\clients-5.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/clients-6.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\clients-6.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/clients-7.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\clients-7.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/clients-8.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\clients-8.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/clients-9.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\clients-9.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/event-1.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\event-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/event-2.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\event-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/event-3.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\event-3.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/footer-1.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\footer-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/footer-2.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\footer-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/footer-3.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\footer-3.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/footer-4.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\footer-4.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/instagram-1.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\instagram-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/instagram-10.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\instagram-10.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/instagram-11.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\instagram-11.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/instagram-2.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\instagram-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/instagram-3.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\instagram-3.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/instagram-4.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\instagram-4.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/instagram-5.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\instagram-5.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/instagram-6.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\instagram-6.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/instagram-7.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\instagram-7.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/instagram-8.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\instagram-8.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/instagram-9.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\instagram-9.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/laptop-1.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\laptop-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/mobile-1.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\mobile-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/skills-1.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\skills-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/skills-2.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\skills-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/tab-1.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\tab-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/testimonial-1.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\testimonial-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/testimonial-1.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\testimonial-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/testimonial-2.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\testimonial-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/testimonial-2.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\testimonial-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/testimonial-3.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\testimonial-3.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/testimonial-3.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\testimonial-3.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/testimonial-4.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\testimonial-4.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/thumb-1.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\thumb-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/thumb-2.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\thumb-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/thumb-3.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\thumb-3.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/thumb-4.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\thumb-4.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/thumb-5.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\thumb-5.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/thumb-6.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\thumb-6.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/vector-1.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\vector-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/resource/vector-2.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\resource\vector-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/service/service-1.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\service\service-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/service/service-2.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\service\service-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/service/service-3.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\service\service-3.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/service/service-4.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\service\service-4.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/service/service-5.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\service\service-5.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/service/service-6.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\service\service-6.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/service/service-7.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\service\service-7.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-1.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-1.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-10.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-10.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-100.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-100.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-101.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-101.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-102.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-102.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-103.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-103.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-104.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-104.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-105.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-105.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-106.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-106.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-107.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-107.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-108.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-108.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-109.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-109.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-11.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-11.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-110.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-110.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-112.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-112.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-113.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-113.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-114.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-114.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-115.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-115.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-116.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-116.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-117.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-117.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-118.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-118.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-119.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-119.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-12.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-12.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-120.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-120.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-121.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-121.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-122.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-122.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-123.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-123.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-124.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-124.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-125.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-125.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-126.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-126.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-127.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-127.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-128.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-128.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-129.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-129.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-13.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-13.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-130.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-130.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-131.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-131.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-132.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-132.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-133.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-133.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-134.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-134.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-135.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-135.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-136.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-136.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-137.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-137.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-138.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-138.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-139.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-139.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-14.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-14.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-140.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-140.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-141.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-141.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-142.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-142.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-143.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-143.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-144.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-144.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-146.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-146.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-147.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-147.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-148.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-148.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-149.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-149.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-15.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-15.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-150.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-150.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-151.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-151.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-152.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-152.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-153.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-153.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-154.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-154.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-155.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-155.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-156.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-156.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-157.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-157.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-158.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-158.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-159.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-159.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-16.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-16.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-160.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-160.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-161.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-161.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-162.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-162.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-163.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-163.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-164.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-164.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-165.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-165.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-166.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-166.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-167.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-167.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-168.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-168.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-169.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-169.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-17.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-17.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-18.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-18.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-19.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-19.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-2.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-2.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-20.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-20.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-21.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-21.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-22.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-22.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-23.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-23.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-25.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-25.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-27.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-27.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-28.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-28.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-29.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-29.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-3.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-3.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-3.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-3.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-30.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-30.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-31.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-31.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-32.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-32.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-33.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-33.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-34.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-34.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-35.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-35.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-36.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-36.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-37.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-37.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-38.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-38.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-39.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-39.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-4.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-4.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-4.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-4.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-40.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-40.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-42.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-42.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-43.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-43.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-44.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-44.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-45.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-45.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-46.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-46.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-47.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-47.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-48.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-48.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-49.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-49.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-5.jpg
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-5.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-50.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-50.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-51.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-51.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-52.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-52.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-53.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-53.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-54.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-54.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-55.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-55.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-56.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-56.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-57.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-57.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-58.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-58.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-59.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-59.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-6.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-6.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-60.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-60.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-61.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-61.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-62.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-62.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-63.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-63.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-64.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-64.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-65.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-65.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-66.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-66.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-67.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-67.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-68.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-68.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-69.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-69.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-7.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-7.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-70.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-70.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-71.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-71.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-72.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-72.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-73.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-73.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-74.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-74.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-75.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-75.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-76.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-76.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-77.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-77.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-78.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-78.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-79.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-79.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-8.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-8.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-80.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-80.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-81.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-81.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-82.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-82.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-83.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-83.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-84.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-84.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-85.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-85.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-86.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-86.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-87.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-87.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-88.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-88.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-89.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-89.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-9.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-9.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-90.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-90.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-91.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-91.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-92.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-92.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-93.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-93.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-94.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-94.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-95.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-95.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-96.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-96.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-97.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-97.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-98.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-98.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/images/shape/shape-99.png
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\shape\shape-99.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Potu/assets/js/aos.js
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\js\aos.js
+Content Type: application/javascript
+
+Uri: https://azim.hostlin.com/Potu/assets/js/appear.js
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\js\appear.js
+Content Type: application/javascript
+
+Uri: https://azim.hostlin.com/Potu/assets/js/bootstrap.min.js
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://azim.hostlin.com/Potu/assets/js/gsap.js
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\js\gsap.js
+Content Type: application/javascript
+
+Uri: https://azim.hostlin.com/Potu/assets/js/hamburger.js
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\js\hamburger.js
+Content Type: application/javascript
+
+Uri: https://azim.hostlin.com/Potu/assets/js/isotope.js
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\js\isotope.js
+Content Type: application/javascript
+
+Uri: https://azim.hostlin.com/Potu/assets/js/jquery.circleType.js
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\js\jquery.circleType.js
+Content Type: application/javascript
+
+Uri: https://azim.hostlin.com/Potu/assets/js/jquery.fancybox.js
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\js\jquery.fancybox.js
+Content Type: application/javascript
+
+Uri: https://azim.hostlin.com/Potu/assets/js/jquery.js
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://azim.hostlin.com/Potu/assets/js/jquery.lettering.min.js
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\js\jquery.lettering.min.js
+Content Type: application/javascript
+
+Uri: https://azim.hostlin.com/Potu/assets/js/jquery.nice-select.min.js
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\js\jquery.nice-select.min.js
+Content Type: application/javascript
+
+Uri: https://azim.hostlin.com/Potu/assets/js/lenis.min.js
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\js\lenis.min.js
+Content Type: application/javascript
+
+Uri: https://azim.hostlin.com/Potu/assets/js/odometer.js
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\js\odometer.js
+Content Type: application/javascript
+
+Uri: https://azim.hostlin.com/Potu/assets/js/owl.js
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\js\owl.js
+Content Type: application/javascript
+
+Uri: https://azim.hostlin.com/Potu/assets/js/parallax-scroll.js
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\js\parallax-scroll.js
+Content Type: application/javascript
+
+Uri: https://azim.hostlin.com/Potu/assets/js/parallax.min.js
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\js\parallax.min.js
+Content Type: application/javascript
+
+Uri: https://azim.hostlin.com/Potu/assets/js/plugins.js
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\js\plugins.js
+Content Type: application/javascript
+
+Uri: https://azim.hostlin.com/Potu/assets/js/script.js
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\js\script.js
+Content Type: application/javascript
+
+Uri: https://azim.hostlin.com/Potu/assets/js/scrolltop.min.js
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\js\scrolltop.min.js
+Content Type: application/javascript
+
+Uri: https://azim.hostlin.com/Potu/assets/js/ScrollTrigger.js
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\js\ScrollTrigger.js
+Content Type: application/javascript
+
+Uri: https://azim.hostlin.com/Potu/assets/js/SplitText.js
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\js\SplitText.js
+Content Type: application/javascript
+
+Uri: https://azim.hostlin.com/Potu/assets/js/text_animation.js
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\js\text_animation.js
+Content Type: application/javascript
+
+Uri: https://azim.hostlin.com/Potu/assets/js/text_plugins.js
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\js\text_plugins.js
+Content Type: application/javascript
+
+Uri: https://azim.hostlin.com/Potu/assets/js/validation.js
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\js\validation.js
+Content Type: application/javascript
+
+Uri: https://azim.hostlin.com/Potu/assets/js/wow.js
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\js\wow.js
+Content Type: application/javascript
+
+Uri: https://azim.hostlin.com/Potu/blog-2.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\blog-2.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/blog-3.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\blog-3.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/blog-4.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\blog-4.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/blog-details.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\blog-details.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/blog.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\blog.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/contact.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\contact.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/index-10.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\index-10.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/index-2.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\index-2.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/index-3.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\index-3.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/index-4.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\index-4.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/index-5.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\index-5.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/index-6.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\index-6.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/index-7.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\index-7.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/index-8.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\index-8.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/index-9.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\index-9.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/index.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\index.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/portfolio-2.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\portfolio-2.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/portfolio-3.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\portfolio-3.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/portfolio-4.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\portfolio-4.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/portfolio-5.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\portfolio-5.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/portfolio-6.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\portfolio-6.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/portfolio-7.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\portfolio-7.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/portfolio-8.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\portfolio-8.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/portfolio.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\portfolio.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/service-2.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\service-2.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/service-3.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\service-3.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/service-4.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\service-4.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/service-5.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\service-5.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/service-6.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\service-6.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/service-details-1.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\service-details-1.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/service-details-2.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\service-details-2.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Potu/service.html
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\service.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4bC1C4E.ttf
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4bC1C4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4bCyC4E.ttf
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4bCyC4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4deyC4E.ttf
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4deyC4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4e6yC4E.ttf
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4e6yC4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4QK1C4E.ttf
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4QK1C4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC0C4E.ttf
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC0C4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1C4E.ttf
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1C4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4W61C4E.ttf
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4W61C4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4ZmyC4E.ttf
+File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4ZmyC4E.ttf
+Content Type: font/ttf
+

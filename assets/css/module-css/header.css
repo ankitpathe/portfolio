@@ -62,6 +62,11 @@
 .main-header .logo-box .light-logo{
   display: block;
 }
+.main-header .logo-box .light-logo img{
+  max-width: 150px;
+}
+
+
 
 .main-header .logo-box .dark-logo{
   display: none;

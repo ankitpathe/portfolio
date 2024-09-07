@@ -738,7 +738,7 @@ Uri: https://azim.hostlin.com/Potu/assets/images/clients/clients-9.png
 File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\clients\clients-9.png
 Content Type: image/png
 
-Uri: https://azim.hostlin.com/Potu/assets/images/favicon.ico
+Uri: https://azim.hostlin.com/Potu/assets/images/Fav.png
 File Name: C:\VERSAI TECHNOLOGY\ankit pathe\azim.hostlin.com\Potu\assets\images\favicon.ico
 Content Type: image/x-icon
 

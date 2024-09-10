@@ -1544,6 +1544,20 @@ body.out .mouse-pointer {
     }
 }
 
+.responsive-img {
+  width: 100%;
+  height: auto;
+  max-width: 1400px; /* Limit the maximum width */
+}
+
+@media (max-width: 600px) {
+  .responsive-img {
+      width: 100%; /* Ensures it takes up the full width on mobile */
+      height: auto; /* Maintain the aspect ratio */
+  }
+}
+
+
 
 
 
